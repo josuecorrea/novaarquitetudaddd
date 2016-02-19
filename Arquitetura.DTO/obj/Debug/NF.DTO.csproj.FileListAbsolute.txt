@@ -1,0 +1,10 @@
+D:\SOURCECONTROL\NFeLight_old\NF.DTO\bin\Debug\NF.DTO.dll
+D:\SOURCECONTROL\NFeLight_old\NF.DTO\bin\Debug\NF.DTO.pdb
+D:\SOURCECONTROL\NFeLight_old\NF.DTO\obj\Debug\NF.DTO.csprojResolveAssemblyReference.cache
+D:\SOURCECONTROL\NFeLight_old\NF.DTO\obj\Debug\NF.DTO.dll
+D:\SOURCECONTROL\NFeLight_old\NF.DTO\obj\Debug\NF.DTO.pdb
+D:\SOURCECONTROL\Workflow\NF.DTO\bin\Debug\NF.DTO.dll
+D:\SOURCECONTROL\Workflow\NF.DTO\bin\Debug\NF.DTO.pdb
+D:\SOURCECONTROL\Workflow\NF.DTO\obj\Debug\NF.DTO.csprojResolveAssemblyReference.cache
+D:\SOURCECONTROL\Workflow\NF.DTO\obj\Debug\NF.DTO.dll
+D:\SOURCECONTROL\Workflow\NF.DTO\obj\Debug\NF.DTO.pdb

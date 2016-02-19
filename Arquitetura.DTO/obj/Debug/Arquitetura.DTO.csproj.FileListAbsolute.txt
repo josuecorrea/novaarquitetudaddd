@@ -1,0 +1,9 @@
+D:\SOURCECONTROL\Workflow\NF.DTO\bin\Debug\NF.DTO.dll
+D:\SOURCECONTROL\Workflow\NF.DTO\bin\Debug\NF.DTO.pdb
+D:\SOURCECONTROL\Workflow\NF.DTO\obj\Debug\NF.DTO.dll
+D:\SOURCECONTROL\Workflow\NF.DTO\obj\Debug\NF.DTO.pdb
+D:\SOURCECONTROL\Workflow\Arquitetura.DTO\bin\Debug\Arquitetura.DTO.dll
+D:\SOURCECONTROL\Workflow\Arquitetura.DTO\bin\Debug\Arquitetura.DTO.pdb
+D:\SOURCECONTROL\Workflow\Arquitetura.DTO\obj\Debug\Arquitetura.DTO.csprojResolveAssemblyReference.cache
+D:\SOURCECONTROL\Workflow\Arquitetura.DTO\obj\Debug\Arquitetura.DTO.dll
+D:\SOURCECONTROL\Workflow\Arquitetura.DTO\obj\Debug\Arquitetura.DTO.pdb
